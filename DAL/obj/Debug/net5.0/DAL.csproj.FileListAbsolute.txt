@@ -1,0 +1,36 @@
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.dll
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Users\Mike\Desktop\Workspace\Computer Shop react + api\Backend\ComputerDirectory\DAL\obj\Debug\net5.0\DAL.pdb
